@@ -1,6 +1,7 @@
 # Terraform Project(IAC)
 
-![image](https://github.com/fadedstarboy/terraform-project/assets/51039641/e87a3065-04d5-4866-ab1e-bc46dcf7a03e)
+![Screenshot from 2023-06-27 17-09-31](https://github.com/fadedstarboy/terraform-project/assets/51039641/670191bd-b9f9-44e8-97ac-e0b9b569903f)
+
 
 This is the blueprint of the infrastructure I created. This contains the following:
 1. Build a Reusable module for AWS
